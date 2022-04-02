@@ -1,0 +1,39 @@
+#Nome { 
+    text-align: center;
+    font-family: Georgia, Times, 'Times New Roman', serif
+
+     
+ }
+ body{
+     background-color: #678D58
+ }
+ #txtd {
+     font-family: Verdana, Geneva, Tahoma, sans-serif;
+ }
+ .musica{
+     font-size: 30px;
+ }
+ .jogo{
+     font-size: 25px;
+ }
+ .lingua{
+     font-size: 20px;
+ }
+ .diamante{
+     font-size: 15px;
+ }
+ .Image-container {
+    height: 300px;
+ }
+ #eu{
+     padding: 30px;
+     background-color: #3c1518; 
+     float: left;
+     margin-right: 5px;
+ }
+ ul li:nth-child(odd){
+     color: #231123;
+ }
+h3 {
+    background-color: #ffc857;
+}
